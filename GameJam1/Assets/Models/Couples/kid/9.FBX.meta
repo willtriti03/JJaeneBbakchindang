@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: e9745f1e1b1301d4191e5a21365ca698
+timeCreated: 1471112547
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box015
+    100004: Box016
+    100006: Box026
+    100008: Box029
+    100010: Box033
+    100012: Box034
+    100014: Box035
+    100016: Box036
+    100018: Box037
+    100020: Box039
+    100022: Box040
+    100024: Box045
+    100026: Box072
+    100028: Cylinder005
+    100030: Group001
+    100032: Group002
+    100034: Group003
+    100036: Group004
+    100038: Group005
+    100040: Object001
+    100042: Particle View 001
+    100044: Particle View 001 1
+    100046: Particle View 001 2
+    100048: Particle View 001 3
+    100050: Particle View 001 4
+    100052: Particle View 001 5
+    100054: Sphere010
+    100056: Sphere011
+    100058: Sphere012
+    100060: Tube001
+    100062: Tube002
+    400000: //RootNode
+    400002: Box015
+    400004: Box016
+    400006: Box026
+    400008: Box029
+    400010: Box033
+    400012: Box034
+    400014: Box035
+    400016: Box036
+    400018: Box037
+    400020: Box039
+    400022: Box040
+    400024: Box045
+    400026: Box072
+    400028: Cylinder005
+    400030: Group001
+    400032: Group002
+    400034: Group003
+    400036: Group004
+    400038: Group005
+    400040: Object001
+    400042: Particle View 001
+    400044: Particle View 001 1
+    400046: Particle View 001 2
+    400048: Particle View 001 3
+    400050: Particle View 001 4
+    400052: Particle View 001 5
+    400054: Sphere010
+    400056: Sphere011
+    400058: Sphere012
+    400060: Tube001
+    400062: Tube002
+    2300000: Box015
+    2300002: Box016
+    2300004: Box026
+    2300006: Box029
+    2300008: Box033
+    2300010: Box034
+    2300012: Box035
+    2300014: Box036
+    2300016: Box037
+    2300018: Box039
+    2300020: Box040
+    2300022: Box045
+    2300024: Box072
+    2300026: Cylinder005
+    2300028: Object001
+    2300030: Sphere010
+    2300032: Sphere011
+    2300034: Sphere012
+    2300036: Tube001
+    2300038: Tube002
+    3300000: Box015
+    3300002: Box016
+    3300004: Box026
+    3300006: Box029
+    3300008: Box033
+    3300010: Box034
+    3300012: Box035
+    3300014: Box036
+    3300016: Box037
+    3300018: Box039
+    3300020: Box040
+    3300022: Box045
+    3300024: Box072
+    3300026: Cylinder005
+    3300028: Object001
+    3300030: Sphere010
+    3300032: Sphere011
+    3300034: Sphere012
+    3300036: Tube001
+    3300038: Tube002
+    4300000: Cylinder005
+    4300002: Box026
+    4300004: Tube001
+    4300006: Tube002
+    4300008: Box045
+    4300010: Box033
+    4300012: Box072
+    4300014: Box029
+    4300016: Box016
+    4300018: Box015
+    4300020: Box040
+    4300022: Sphere011
+    4300024: Sphere012
+    4300026: Box039
+    4300028: Object001
+    4300030: Sphere010
+    4300032: Box037
+    4300034: Box036
+    4300036: Box035
+    4300038: Box034
+    7400000: Male_Walk
+    7400002: Male_Idle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Male_Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Cylinder005
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Box033
+        weight: 1
+      - path: Group001/Box045
+        weight: 1
+      - path: Group002
+        weight: 1
+      - path: Group002/Box029
+        weight: 1
+      - path: Group002/Box072
+        weight: 1
+      - path: Group003
+        weight: 1
+      - path: Group003/Box015
+        weight: 1
+      - path: Group003/Box016
+        weight: 1
+      - path: Group003/Box039
+        weight: 1
+      - path: Group003/Box040
+        weight: 1
+      - path: Group003/Object001
+        weight: 1
+      - path: Group003/Sphere010
+        weight: 1
+      - path: Group003/Sphere011
+        weight: 1
+      - path: Group003/Sphere012
+        weight: 1
+      - path: Group004
+        weight: 1
+      - path: Group004/Box036
+        weight: 1
+      - path: Group004/Box037
+        weight: 1
+      - path: Group005
+        weight: 1
+      - path: Group005/Box034
+        weight: 1
+      - path: Group005/Box035
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      - path: Particle View 001 1
+        weight: 1
+      - path: Particle View 001 2
+        weight: 1
+      - path: Particle View 001 3
+        weight: 1
+      - path: Particle View 001 4
+        weight: 1
+      - path: Particle View 001 5
+        weight: 1
+      - path: Tube001
+        weight: 1
+      - path: Tube002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Male_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Cylinder005
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Box033
+        weight: 1
+      - path: Group001/Box045
+        weight: 1
+      - path: Group002
+        weight: 1
+      - path: Group002/Box029
+        weight: 1
+      - path: Group002/Box072
+        weight: 1
+      - path: Group003
+        weight: 1
+      - path: Group003/Box015
+        weight: 1
+      - path: Group003/Box016
+        weight: 1
+      - path: Group003/Box039
+        weight: 1
+      - path: Group003/Box040
+        weight: 1
+      - path: Group003/Object001
+        weight: 1
+      - path: Group003/Sphere010
+        weight: 1
+      - path: Group003/Sphere011
+        weight: 1
+      - path: Group003/Sphere012
+        weight: 1
+      - path: Group004
+        weight: 1
+      - path: Group004/Box036
+        weight: 1
+      - path: Group004/Box037
+        weight: 1
+      - path: Group005
+        weight: 1
+      - path: Group005/Box034
+        weight: 1
+      - path: Group005/Box035
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      - path: Particle View 001 1
+        weight: 1
+      - path: Particle View 001 2
+        weight: 1
+      - path: Particle View 001 3
+        weight: 1
+      - path: Particle View 001 4
+        weight: 1
+      - path: Particle View 001 5
+        weight: 1
+      - path: Tube001
+        weight: 1
+      - path: Tube002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
